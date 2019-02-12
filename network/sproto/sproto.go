@@ -3,9 +3,9 @@ package sproto
 import(
 	"encoding/binary"
 	"errors"
-	"github.com/name5566/leaf/chanrpc"
+	"github.com/songyudong/leaf/chanrpc"
 	"github.com/xjdrew/gosproto"
-	"github.com/name5566/leaf/log"
+	"github.com/songyudong/leaf/log"
 	"fmt"
 	"math"
 	"reflect"
